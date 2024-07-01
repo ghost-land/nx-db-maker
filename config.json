@@ -1,5 +1,6 @@
 {
     "db-name": "nx.db",
+    "loop-delay": 15,
     "games-source": {
         "url": "https://pro1.nlib.cc/",
         "user": "",
